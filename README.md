@@ -59,9 +59,6 @@
 15а1. Фронтент отображает пользователю "Код не правильный".  
 Возврат на шаг 1.  
 
-# Диаграмма activity
-![activity]( "Диаграмма activity")
-
 # Диаграмма sequence
-![sequence]( "Диаграмма sequence")
+![sequence](http://www.plantuml.com/plantuml/svg/ZLB1QXin4BthAmQVsaFetOSIbCr2AAv3tD2Za5UJibYHjYDjIlw-ci7QohLhQZ0xE-_DwEtJkqtPKfvVlR93ZWJF2KdjunoSfNTOzHH3nk1MO1FqQYXl53siD0w7sjRAsMptDY6ikbBfKWdGwJBWFGvvZ271QhVPtHbjmq5GBYxWcwsWcwrIFiO9CiseM1NSV8P-3VtelNaPqRlquIEB7jziHkX1zN1JA7eDZzlTD_E4FsTCkULeK9gtT8LpX0rBDvrkQ2oxqx9BU6agub28XUMmvLcVOMPj8MPuOTSKy4_6MUtNc8tqowWW8b9SNaCtfidRTtDF5AaGq2U4oQRqAvA3CGoH28SX_xNpySWm3mlZlxVpLu080fbWuGZn3Oa_zYuwD3ym85c-ahfrCUqX94BAdvwdiWVDKEYLqxeYZJyMKhLm-wMoJrrS3f5Ch667mPcxIyiPbvPKFB7PNk0xl31HMsL46kMvk7LzHnreKdWVCj89luVpy5NiB7LTJTrryzhyySWL-pY9V1-cnkQOcjFeiE0bDekywz6fBCcF775-m9xG7lu1diSClkFUx32b9cFdMfzmQX9pLMUXdl0mEBKKzT-OrhSlMjqMU7xrlm40 "Диаграмма sequence")
 
